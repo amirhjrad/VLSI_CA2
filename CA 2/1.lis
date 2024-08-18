@@ -1,0 +1,25 @@
+ ****** HSPICE -- P-2019.06-SP1-1 win64 (Sep 27 2019) ******                    
+  Copyright (c) 1986 - 2024 by Synopsys, Inc. All Rights Reserved.              
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+  Input File: 1.sp                                                              
+  Command line options: C:\synopsys\Hspice_P-2019.06-SP1-1\WIN64\hspice.com -i 1.sp -o C:\Users\IDEAL\Desktop\CA 2\1.lis
+  Start time: Thu Apr 18 13:00:58 2024
+  lic:  
+  lic: FLEXlm: SDK_12.3 
+  lic: USER:   IDEAL                HOSTNAME: DESKTOP-VQ2IIPN 
+  lic: HOSTID: 000c294610b7         PID:      6908 
+  lic: Using FLEXlm license file: 
+  lic: 27000@DESKTOP-VQ2IIPN 
+  lic: Checkout 1 hspice 
+  lic: License/Maintenance for hspice will expire on 30-dec-2030/2030.12 
+  lic: 1(in_use)/99(total) FLOATING license(s) on SERVER 27000@DESKTOP-VQ2IIPN 
+  lic:   
+  **error** (1.sp:5) missing library entry name. 
+
+               ***** job aborted
+  lic: Release hspice token(s) 
+ lic: total license checkout elapse time:        0.02(s)
